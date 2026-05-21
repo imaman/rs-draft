@@ -52,25 +52,30 @@ The moderators team will be happy to assist new speakers in turning an idea into
 ## Submission guidelines
 
 - Write a clear and concise proposal. The audience should know what to expect when they step into your session.
-- Please consider some past years suggestions on what we consider to be good content/proposals:
+- For our take on what makes good content and proposals, see:
   - https://www.youtube.com/watch?v=Da-JcEYBjuo
   - https://www.youtube.com/watch?v=F09My4646hI
-- Avoid sales, marketing pitches, or self promotion.
+- Avoid sales, marketing pitches, or self-promotion.
 - The conference is held in Hebrew, and sessions should be delivered in Hebrew. If a speaker does not speak the language, the session will be presented in English.
 - A speaker may submit up to three (3) proposals.
-- A session may be presented by up to two speakers. All speakers must be indicated on submission.
-- Assuming your session is accepted, our moderators will be in continuous contact with you, and follow up on your progress. Your cooperation is expected and may be required.
-- Not being able to cooperate or respond in a timely manner may endanger your participance.
-- You will be requested to participate in at least one dry run session. Your presentation at the conference may depend on that dry run. In our experience, speakers consider the dry run as beneficial to their presentation and personal preparation.
-- To get a sense of successful submissions, please consider our [previous conferences content](https://summit.reversim.com/)
+- A session may be presented by up to two speakers. All speakers must be listed at submission time.
+- To get a sense of accepted submissions, see content from our [previous conferences](https://summit.reversim.com/).
 
 ## Review process
 
-- Once the Call for Papers closes, our moderation team will begin reviewing proposals.
-- Reviewing is not anonymous.
-- Moderators may contact submitters for questions & clarifications.
-- At the end of the proposal selection process, and before the schedule is published, all submitters will be notified on their proposal status.
-- A few speakers may be contacted to agree to have their session waitlisted, so that they can be scheduled in case of another session's last moment cancellation.
+- Once the Call for Papers closes, the moderation team begins reviewing proposals.
+- Reviewing is not blind: reviewers see submitter names and affiliations.
+- Moderators may reach out to submitters with questions or requests for clarification. This may include asking for a detailed outline, supporting material, a draft deck, or a brief call to better understand the proposal. The clearer the picture of how the talk will play out, the more confident moderators can be in selecting it.
+- All submitters will be notified of their proposal status before the schedule is published.
+- Some submitters may be asked if they'd accept a waitlist spot, to be scheduled in case of last-minute agenda changes.
+
+## Preparing your talk
+
+Once your session is accepted, the moderation team works closely with you from acceptance through the conference. This is a collaborative process - not a checkpoint - and your engagement matters as much as your content.
+
+- Between acceptance and the conference, expect substantial work on your talk: an early draft, feedback rounds with your moderators, a revised version, and self-rehearsals leading up to the in-person dry-run.
+- You'll need to participate in at least one in-person dry-run, where you'll receive substantive feedback on your talk from your moderators and fellow speakers. We hold dry-runs on a small number of pre-set dates; you'll typically be offered a choice between two - your availability matters.
+- Withdrawal of an accepted session is rare but possible. It typically happens for one of two reasons: a speaker becomes unreachable in the run-up to the conference, or the dry-run process surfaces that the talk isn't ready and the speaker and moderation team agree it shouldn't go ahead. We'd rather catch this before the day than on stage.
 
 ## Code of Conduct
 
